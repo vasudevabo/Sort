@@ -1,4 +1,11 @@
-﻿using System;
+﻿/* Here is the Bubble sort Algorithms. No input is required for the script. It will execute without input against two pre-populated arrays
+ * Auther:Vasudeva reddy Bolleddula
+ * Publish: 28th Feb 2024*/
+
+
+
+
+using System;
 
 class BubbleSort
 {
